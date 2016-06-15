@@ -2,6 +2,7 @@
 
 Angular 1.x + TypeScript + Webpack seed project.
 
+The webpack configuration in this project was largely inspired by: [preboot/angular-webpack](http://https://github.com/preboot/angular-webpack)
 
 ### Quick Start
 
